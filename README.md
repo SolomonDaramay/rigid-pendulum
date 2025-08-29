@@ -24,6 +24,6 @@ If we start the **pendulum** oriented above its pivot point, at its unstable equ
 [Google](www.google.com)
 [Google again](www.google.com) 
 
+## Commit Screenshot 
+![commit](https://github.com/SolomonDaramay/rigid-pendulum/blob/main/IMG_5682.jpeg)
 
-## Commit Screenshot
-![commit](https:
